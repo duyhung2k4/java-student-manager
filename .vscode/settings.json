@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "javafx-sdk-21.0.4/lib/**/*.jar",
+        "lib/ikonli-core-12.3.1.jar",
+        "lib/ikonli-fontawesome5-pack-12.3.1.jar",
+        "lib/ikonli-javafx-12.3.1.jar",
+        "lib/postgresql-42.7.4.jar"
+    ],
+    "java.jdt.ls.vmargs": "--module-path javafx-sdk-21.0.4/lib --add-modules javafx.controls,javafx.fxml"
+}
